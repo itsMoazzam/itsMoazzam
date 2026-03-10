@@ -23,11 +23,11 @@
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-## 📬 Contact
+### 📬 Contact
 
 | Platform | Link |
 |:--------:|:----:|
@@ -38,9 +38,9 @@
 | 💻 **GitHub** | [@itsMoazzam](https://github.com/itsMoazzam) |
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🌍 Languages
+### 🌍 Languages
 
 | Language | Level |
 |:--------:|:-----:|
@@ -56,54 +56,75 @@
 
 ## 💼 Experience
 
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+<table width="100%">
+<tr>
+<td width="100%">
+
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="100%">
-
 <img src="https://img.shields.io/badge/✨_Current_Role-10b981?style=flat-square&labelColor=0f172a" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🏢_TechLape-6366f1?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=0f172a" />
-
-### 🚀 Full Stack Developer
-
-> *Building scalable full-stack solutions • Frontend & Backend Development*
-
-<table>
-<tr>
-<td align="center">
-
-🔹 End-to-end web development  
-🔹 RESTful APIs  
-🔹 Database design  
-
-</td>
-<td align="center">
-
-🔹 React & Node.js/Django  
-🔹 Agile workflow  
-🔹 Code optimization  
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Full_Time-8b5cf6?style=flat-square&labelColor=0f172a" />
 
 </div>
+
+<br/>
+
+| Detail | Info |
+|:---|:---|
+| **Company** | TechLape |
+| **Role** | Full Stack Developer |
+| **Focus** | Frontend & Backend • Scalable Solutions |
+
+<br/>
+
+> *Building end-to-end web applications with React, Django & Node.js — from database design to deployment.*
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**Development**
+- End-to-end web development
+- RESTful API design & integration
+- Database design & optimization
+
+</td>
+<td width="50%" valign="top">
+
+**Tools & Process**
+- React, Node.js & Django stack
+- Agile workflow & collaboration
+- Code optimization & best practices
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+</p>
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧠 Tech Stack
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="33.33%" valign="top">
 
 ### 🎨 Frontend
 
@@ -115,7 +136,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="33.33%" valign="top">
 
 ### ⚙️ Backend
 
@@ -125,7 +146,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="33.33%" valign="top">
 
 ### 🛠 Tools & Mobile
 
@@ -140,79 +161,88 @@
 
 ---
 
-<!-- Section: Education -->
 ## 🎓 Education
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/📚_BS_Software_Engineering-6366f1?style=for-the-badge&labelColor=0f172a" />
-
-**COMSATS University Vehari** • 2022 – 2026
+| Detail | Info |
+|:---|:---|
+| **Degree** | Bachelor of Science in Software Engineering |
+| **University** | COMSATS University Islamabad, Vehari Campus |
+| **Duration** | 2022 – 2026 |
+| **Location** | Vehari, Punjab, Pakistan |
 
 <details>
 <summary><b>📚 Relevant Coursework</b></summary>
 
-| • Data Structures & Algorithms | • Object Oriented Programming |
-|-------------------------------|------------------------------|
-| • Fundamental Programming     | • Database Management Systems |
-| • Web Technologies            | • Advanced Web Technologies   |
-| • Mobile Applications         | • Data Science & ML           |
+| Core | Advanced |
+|:-----|:---------|
+| Data Structures & Algorithms | Database Management Systems |
+| Object Oriented Programming | Advanced Web Technologies |
+| Fundamental Programming | Mobile Applications |
+| Web Technologies | Data Science & ML |
 
 </details>
-
-</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 ### 🛒 Intelligent E-Commerce Store
 
-<img src="https://img.shields.io/badge/React-Django-Three.js-6366f1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OCR-ML-JWT-8b5cf6?style=for-the-badge" />
+> AI-powered e-commerce platform with 3D visualization, OCR payment, and recommendation engine.
 
-[![Repo](https://img.shields.io/badge/View_Code-ec4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsMoazzam/AI-Powered-E-Commerce-store)
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jwt&logoColor=white" />
+</p>
 
-| Feature |
-|---------|
-| 3D Product Visualization (**Three.js**) |
-| AI Recommendation Engine |
-| OCR based payment verification |
-| IMAP Email cross verification |
-| AI moderation (spam & NSFW detection) |
-| JWT Auth + Role Based Access (Admin/Seller/Customer) |
+- 3D Product Visualization (Three.js)  
+- AI Recommendation Engine  
+- OCR payment & IMAP verification  
+- AI moderation (spam & NSFW)  
+- Role Based Access (Admin/Seller/Customer)  
 
----
+[![View Code](https://img.shields.io/badge/View_Code-ec4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsMoazzam/AI-Powered-E-Commerce-store)
+
+</td>
+<td width="50%" valign="top">
 
 ### 🎓 Student Portal System
 
-<img src="https://img.shields.io/badge/React-Django_REST-PostgreSQL-6366f1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/JWT-Redux-8b5cf6?style=for-the-badge" />
+> Full-stack academic management system with role-based dashboards and PDF reports.
 
-[![Repo](https://img.shields.io/badge/View_Code-ec4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsMoazzam/Student-portal)
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+</p>
 
-| Feature |
-|---------|
-| Role Based Access Control |
-| Admin dashboard + user management |
-| Staff dashboard (attendance & grading) |
-| Automated PDF report generation |
-| Student portal (courses & fee tracking) |
-| Real-time academic notifications |
+- Role Based Access Control  
+- Admin & Staff dashboards  
+- Automated PDF report generation  
+- Student portal (courses & fee tracking)  
+- Real-time academic notifications  
 
-</div>
+[![View Code](https://img.shields.io/badge/View_Code-ec4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsMoazzam/Student-portal)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 Interests
+## 📖 Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/💻_Coding-6366f1?style=for-the-badge&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/⚽_Football-10b981?style=for-the-badge&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/🛠_Tech_Support-8b5cf6?style=for-the-badge&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/🌐_Open_Source-ec4899?style=for-the-badge&labelColor=0f172a" />
+  <img src="https://img.shields.io/badge/Cloud_%26_DevOps-6366f1?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Design-8b5cf6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -221,13 +251,27 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itsMoazzam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=ec4899" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=itsMoazzam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=ec4899" height="165" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsMoazzam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=itsMoazzam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6" height="165" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsMoazzam&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=ec4899&currStreakLabel=ec4899" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/streak-stats?user=itsMoazzam&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=ec4899" height="165" alt="GitHub Streak" />
 
 </div>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:ranamoazzam954@gmail.com"><img src="https://img.shields.io/badge/Email-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/rana-moazzam-077108258"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/itsMoazzam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p align="center">
+  <i>Open to opportunities & collaborations</i>
+</p>
 
 <!-- Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
