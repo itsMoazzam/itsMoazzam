@@ -1,3 +1,5 @@
+<img src="hex-pattern.svg" width="100%" height="80" alt="" />
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6366f1&height=120&section=header&text=Moazzam%20Tanveer&fontSize=50&fontColor=ffffff&fontAlignY=40" width="100%"/>
@@ -260,6 +262,8 @@
   <a href="https://www.linkedin.com/in/rana-moazzam-077108258"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/itsMoazzam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
+
+<img src="hex-pattern.svg" width="100%" height="80" alt="" />
 
 <div align="center">
 
