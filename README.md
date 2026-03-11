@@ -1,4 +1,4 @@
-<img src="hex-pattern.svg" width="100%" height="80" alt="" />
+
 
 <div align="center">
 
