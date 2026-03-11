@@ -2,20 +2,28 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6366f1&height=120&section=header&text=Moazzam%20Tanveer&fontSize=50&fontColor=ffffff&fontAlignY=40" width="100%"/>
+<!-- Animated Gradient Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1:8b5cf6:ec4899&height=200&section=header&text=Moazzam%20Tanveer&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-### Software Engineer · Full Stack Developer
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Tech+Enthusiast" alt="Typing SVG" />
 
-<p>
-  <img src="https://img.shields.io/badge/Full_Stack_Developer_@_TechLape-10b981?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/COMSATS_Vehari-ec4899?style=for-the-badge&labelColor=0f172a" />
+<p align="center">
+  <img src="https://img.shields.io/badge/IT_Technical_Support-6366f1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0yMCA3SDRhMiAyIDAgMCAwLTIgMnYxMGEyIDIgMCAwIDAgMiAyaDE2YTIgMiAwIDAgMCAyLTJWOWEyIDIgMCAwIDAtMi0yeiIvPjxwb2x5bGluZSBwb2ludHM9IjE2IDUgMjIgMTIgMTYgMTkiLz48bGluZSB4MT0iOSIgeTE9IjEyIiB4Mj0iMjIiIHkyPSIxMiIvPjwvc3ZnPg==" />
+  <img src="https://img.shields.io/badge/COMSATS_Vehari-ec4899?style=for-the-badge" />
 </p>
 
-<b>React · JavaScript · Python · Django</b>
+<p align="center">
+  <b>Skilled in React.js • JavaScript • Python • Django</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full_Stack_Developer_@_TechLape-10b981?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=1e293b" />
+</p>
 
 </div>
 
----
+<!-- Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
 
 <table width="100%">
 <tr>
@@ -255,7 +263,7 @@
 
 ---
 
-## 🤝 Connect
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="mailto:ranamoazzam954@gmail.com"><img src="https://img.shields.io/badge/Email-ec4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -263,14 +271,20 @@
   <a href="https://github.com/itsMoazzam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<img src="hex-pattern.svg" width="100%" height="80" alt="" />
+<p align="center">
+  <i>Open to opportunities & collaborations</i>
+</p>
+
+<!-- Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6366f1&height=60&section=footer&text=Moazzam%20Tanveer&fontSize=20&fontColor=ffffff&fontAlignY=25" width="100%"/>
+<!-- Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1:8b5cf6:ec4899&height=120&section=footer" width="100%"/>
 
-[GitHub](https://github.com/itsMoazzam) · [LinkedIn](https://www.linkedin.com/in/rana-moazzam-077108258) · [Email](mailto:ranamoazzam954@gmail.com)
+### ⭐ From [Moazzam Tanveer](https://github.com/itsMoazzam)
 
-<img src="https://komarev.com/ghpvc/?username=itsMoazzam&color=8b5cf6&style=flat-square&label=profile%20views" alt="Views" />
+<img src="https://komarev.com/ghpvc/?username=itsMoazzam&color=8b5cf6&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
